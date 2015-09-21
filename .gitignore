@@ -1,0 +1,7 @@
+.env
+composer.lock
+cache/
+assets/img/
+twig-template/
+vendor/
+php-cs-fixer
